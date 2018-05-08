@@ -1,2 +1,2 @@
 # hello-world
-automatic memore
+automatic memory
