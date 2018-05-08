@@ -1,3 +1,3 @@
 # hello-world
-automatic memore
-I am a graphic designer intereested in learning about front-end development
+automatic memory
+I am a graphic designer interested in learning about front-end development
